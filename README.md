@@ -32,9 +32,17 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+
+## GIF
+![](https://i.imgur.com/83Ky6jr.gif)
+
+Video recorded with [QuickTimePlayer]. GIF created with [EZGif] and inserted with [HackMD].
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+- During my first two attempts at this project, I received multiple various warnings related to Signing/Teams and then Build Settings (executable not found). After the third attempt, I was able to complete the project successfully. (Still unsure of what the roots of the issues were.)
 
 ## License
 
@@ -51,3 +59,5 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
